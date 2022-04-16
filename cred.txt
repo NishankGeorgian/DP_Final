@@ -1,0 +1,26 @@
+username : nishankbhola
+MLDsIAwoBhGkkIPL
+
+
+#mongodb connect
+
+mongodb+srv://nishankbhola:MLDsIAwoBhGkkIPL@cluster0.yfhci.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+mongodb+srv://nishankbhola:MLDsIAwoBhGkkIPL@cluster0.yfhci.mongodb.net/Crypto_db?ssl=true&ssl_cert_reqs=CERT_NONE
+
+
+769abd15a33e0e7c48d430c312a0f05e
+
+
+https://guarded-meadow-32755.herokuapp.com/
+
+https://dp-final-project.herokuapp.com/
+
+
+
+#to commit changes
+git commit -am "make it better"
+
+git commit heroku master
+
+API Key: 81645711-3F07-4791-9977-166DF15D3273
